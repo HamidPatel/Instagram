@@ -35,8 +35,9 @@ section{
 
 .insta-logo {
     height: 5vh;
-    width: 144px;
-
+    width: 244px;
+object-fit: cover;
+     object-position: center; 
 
 }
 
@@ -55,7 +56,7 @@ section{
 }
 
 .nav-icons i {
-    font-size: 30px;
+    font-size: 60px;
 }
 
 #fullheight {
@@ -111,9 +112,9 @@ section{
 }
 
 .story {
-    height: 80px;
+    height: 1200px;
     /* background-color: aliceblue; */
-    width: 80px;
+    width: 1200px;
     border-radius: 50%;
     background: linear-gradient(orange, red, purple, blue, yellow);
     padding: 3px;
@@ -213,7 +214,7 @@ section{
 }
 
 .bottom-bar {
-    height: 5vh;
+    height: 10vh;
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -240,6 +241,7 @@ section{
    
    .full{
     width: 100%;
+       left:0;
    }
     section {
         width: 100%;
