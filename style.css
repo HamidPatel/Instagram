@@ -112,9 +112,9 @@ object-fit: cover;
 }
 
 .story {
-    height: 156px;
+    height: 312px;
     /* background-color: aliceblue; */
-    width: 156px;
+    width: 312px;
     border-radius: 50%;
     background: linear-gradient(orange, red, purple, blue, yellow);
     padding: 3px;
@@ -140,7 +140,7 @@ object-fit: cover;
 
  #heart{
     color: white;
-    font-size: 75px;
+    font-size: 10rem;
     position: absolute;
     top: 50%;
     left: 50%;  
@@ -160,7 +160,8 @@ object-fit: cover;
 }
 
 .name {
-    margin-left: 12px;
+    margin-left: 22px;
+    font-size:2rem;
 }
 
 .dot {
