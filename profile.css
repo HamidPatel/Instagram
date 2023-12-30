@@ -126,7 +126,10 @@ section {
     font-size: 20px;
     font-weight: 400;
 }
-
+.mypost{
+    height:40vh;
+    border:2px solid #dadada;
+}
 .bottom-bar {
     height: 5vh;
     background-color: white;
@@ -136,14 +139,15 @@ section {
     position: fixed;
     top: 95vh;
     width: 40vw;
+    border-top:1px solid #dadada;
 }
 .bottom-bar span a{
     text-decoration: none;
     color: black;
 }
 .bottom-bar span a i {
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 80px;
+    font-weight: 700;
 }
 
 
