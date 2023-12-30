@@ -95,7 +95,7 @@ section {
     text-align: center;
     border-radius: 6px;
     background: #dadadaca;
-    padding: 5px 35px;
+    padding: 5px 30px;
 }
 
 .highlights {
@@ -154,7 +154,7 @@ section {
 
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     section{
         width: 100%;
     }
