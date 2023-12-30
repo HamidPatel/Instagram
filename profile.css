@@ -128,7 +128,7 @@ section {
 }
 .mypost{
     height:40vh;
-    border:2px solid #dadada;
+    border:2px solid rgba(101, 99, 99, 0.424);
 }
 .bottom-bar {
     height: 5vh;
@@ -139,7 +139,7 @@ section {
     position: fixed;
     top: 95vh;
     width: 40vw;
-    border-top:1px solid #dadada;
+    border-top: 1px solid rgba(101, 99, 99, 0.424);
 }
 .bottom-bar span a{
     text-decoration: none;
