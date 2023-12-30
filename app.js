@@ -18,7 +18,7 @@ async function getImg(n) {
                 <div class="user-name">
                     <div class="profile-pic">
 
-                        <img src="profile.jpeg"alt="">
+                        <img src="profile1.jpeg"alt="img">
                     </div>
                     <span class="name">my_name_is_user</span>
                 </div>
