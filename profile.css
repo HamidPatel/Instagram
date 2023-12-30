@@ -24,7 +24,7 @@ section {
     height: 7vh;
     width: 144px;
     padding: 12px 14px;
-    font-size: 18px;
+    font-size: 3rem;
 }
 
 
@@ -96,6 +96,7 @@ section {
     border-radius: 6px;
     background: #dadadaca;
     padding: 5px 30px;
+    font-size:2rem;
 }
 
 .highlights {
