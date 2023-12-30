@@ -35,7 +35,7 @@ section{
 
 .insta-logo {
     height: 5vh;
-    width: 244px;
+    width: 344px;
 object-fit: cover;
      object-position: center; 
 
@@ -96,7 +96,7 @@ object-fit: cover;
 }
 
 .storiesContainer {
-    height: 12vh;
+    height: 20vh;
     /* background-color: bisque; */
     padding: 10px 10px;
     align-items: center;
@@ -112,7 +112,7 @@ object-fit: cover;
 }
 
 .story {
-    height: 1200px;
+    height: 120px;
     /* background-color: aliceblue; */
     width: 1200px;
     border-radius: 50%;
