@@ -36,7 +36,7 @@ async function getImg(n) {
         </div>
         <div class="detail-con">
             <div class="left-con">
-                <i id="bheart" class="ri-heart-3-line"></i>
+                <i id="bheart" class="ri-heart-fill"></i>
                 <i class="ri-chat-3-line"></i>
                 <i class="ri-send-plane-fill"></i>
             </div>
