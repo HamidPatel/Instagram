@@ -70,17 +70,15 @@ object-fit: cover;
     background-position: center;
 }
 
-.my-stories {
+.yt{
 
     height: 5px;
     width: 5px;
     background-color: lightseagreen;
-
+position: relative;
 }
 
-.yt {
-    position: relative;
-}
+
 
 .yt::after {
     content: '';
