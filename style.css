@@ -112,7 +112,7 @@ object-fit: cover;
 }
 
 .story {
-    height: 1560px;
+    height: 156px;
     /* background-color: aliceblue; */
     width: 156px;
     border-radius: 50%;
@@ -228,6 +228,7 @@ object-fit: cover;
     justify-content: space-between;
     padding: 7px 10px;
     position: fixed;
+    border-top: 1px solid rgba(101, 99, 99, 0.424);
     top: 95vh;
     margin: auto;
     width: 100%;
