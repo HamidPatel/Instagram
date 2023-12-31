@@ -74,7 +74,7 @@ window.addEventListener("scroll", function (e) {
         getImg(6);
     }
 });
-getImg(5)
+getImg(25)
 
 
 
